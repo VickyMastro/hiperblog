@@ -34,3 +34,9 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+.contenedor{
+    background-color: #0d0db4;
+    color: white;
+    text-align: center;
+}
